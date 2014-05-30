@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/mkahawa/!svn/ver/54/mkahawa-srv/src
+END
+QTicketsBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mkahawa/!svn/ver/54/mkahawa-srv/src/QTicketsBox.cpp
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/mkahawa/!svn/ver/54/mkahawa-srv/src/Makefile.in
+END
+verifiers.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/mkahawa/!svn/ver/29/mkahawa-srv/src/verifiers.h
+END
+MembersFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mkahawa/!svn/ver/54/mkahawa-srv/src/MembersFrame.cpp
+END
+SettingsBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mkahawa/!svn/ver/39/mkahawa-srv/src/SettingsBox.cpp
+END
+MSGWin.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/src/MSGWin.h
+END
+ProductsFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/mkahawa/!svn/ver/39/mkahawa-srv/src/ProductsFrame.cpp
+END
+NotpaidFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/src/NotpaidFrame.h
+END
+icons.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/mkahawa/!svn/ver/29/mkahawa-srv/src/icons.h
+END
+EmployeesFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mkahawa/!svn/ver/39/mkahawa-srv/src/EmployeesFrame.h
+END
+cclfox.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/mkahawa/!svn/ver/45/mkahawa-srv/src/cclfox.h
+END
+TicketsBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/mkahawa/!svn/ver/39/mkahawa-srv/src/TicketsBox.h
+END
+CCLWin.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/mkahawa/!svn/ver/29/mkahawa-srv/src/CCLWin.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/mkahawa/!svn/ver/37/mkahawa-srv/src/main.cpp
+END
+TarifFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/mkahawa/!svn/ver/39/mkahawa-srv/src/TarifFrame.h
+END
+cmds.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/mkahawa/!svn/ver/27/mkahawa-srv/src/cmds.h
+END
+ReportFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/src/ReportFrame.h
+END
+CashingFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/src/CashingFrame.h
+END
+CCLIconItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/src/CCLIconItem.h
+END
+verifiers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/src/verifiers.cpp
+END
+LogFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/src/LogFrame.h
+END
+MSGWin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/src/MSGWin.cpp
+END
+QTicketsBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mkahawa/!svn/ver/29/mkahawa-srv/src/QTicketsBox.h
+END
+NotpaidFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mkahawa/!svn/ver/39/mkahawa-srv/src/NotpaidFrame.cpp
+END
+MembersFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mkahawa/!svn/ver/39/mkahawa-srv/src/MembersFrame.h
+END
+icons.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/mkahawa/!svn/ver/29/mkahawa-srv/src/icons.cpp
+END
+EmployeesFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/mkahawa/!svn/ver/39/mkahawa-srv/src/EmployeesFrame.cpp
+END
+SettingsBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mkahawa/!svn/ver/39/mkahawa-srv/src/SettingsBox.h
+END
+TicketsBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mkahawa/!svn/ver/45/mkahawa-srv/src/TicketsBox.cpp
+END
+CCLWin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/mkahawa/!svn/ver/54/mkahawa-srv/src/CCLWin.cpp
+END
+TarifFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mkahawa/!svn/ver/39/mkahawa-srv/src/TarifFrame.cpp
+END
+ProductsFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/src/ProductsFrame.h
+END
+ReportFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mkahawa/!svn/ver/39/mkahawa-srv/src/ReportFrame.cpp
+END
+CashingFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mkahawa/!svn/ver/39/mkahawa-srv/src/CashingFrame.cpp
+END
+update.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/mkahawa/!svn/ver/29/mkahawa-srv/src/update.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/mkahawa/!svn/ver/27/mkahawa-srv/src/Makefile.am
+END
+CCLIconItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/src/CCLIconItem.cpp
+END
+LogFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/mkahawa/!svn/ver/39/mkahawa-srv/src/LogFrame.cpp
+END

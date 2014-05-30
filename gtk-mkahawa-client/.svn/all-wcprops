@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/mkahawa/!svn/ver/53/gtk-mkahawa-client
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/mkinstalldirs
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/configure
+END
+intltool-extract.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/intltool-extract.in
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/AUTHORS
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/ChangeLog
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/depcomp
+END
+TODO.tasks
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/TODO.tasks
+END
+intltool-update.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/intltool-update.in
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/config.guess
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/config.sub
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/README
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/ltmain.sh
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/config.h.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/configure.ac
+END
+HACKING
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/mkahawa/!svn/ver/50/gtk-mkahawa-client/HACKING
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/INSTALL
+END
+intltool-merge.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/intltool-merge.in
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/missing
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/NEWS
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/aclocal.m4
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/.cvsignore
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/install-sh
+END

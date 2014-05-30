@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svnroot/mkahawa/!svn/ver/35/libccls
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/mkahawa/!svn/ver/15/libccls/mkinstalldirs
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/mkahawa/!svn/ver/32/libccls/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/mkahawa/!svn/ver/31/libccls/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/mkahawa/!svn/ver/3/libccls/AUTHORS
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/mkahawa/!svn/ver/32/libccls/configure.in
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/mkahawa/!svn/ver/3/libccls/ChangeLog
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/mkahawa/!svn/ver/14/libccls/depcomp
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/mkahawa/!svn/ver/14/libccls/config.guess
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/mkahawa/!svn/ver/14/libccls/config.sub
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/mkahawa/!svn/ver/3/libccls/README
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/mkahawa/!svn/ver/19/libccls/ltmain.sh
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/mkahawa/!svn/ver/3/libccls/config.h.in
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/mkahawa/!svn/ver/3/libccls/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/mkahawa/!svn/ver/3/libccls/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/mkahawa/!svn/ver/3/libccls/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/mkahawa/!svn/ver/3/libccls/Makefile.am
+END
+COPYING-PLAIN
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/mkahawa/!svn/ver/3/libccls/COPYING-PLAIN
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/mkahawa/!svn/ver/14/libccls/missing
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/mkahawa/!svn/ver/3/libccls/NEWS
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/mkahawa/!svn/ver/31/libccls/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/mkahawa/!svn/ver/14/libccls/install-sh
+END

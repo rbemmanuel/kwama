@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/mkahawa/!svn/ver/53/gtk-mkahawa-client/src
+END
+mca_command.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/mca_command.c
+END
+mca_info_panel.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/mca_info_panel.h
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/utils.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/Makefile.in
+END
+mca_blocker.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/mca_blocker.c
+END
+mca_cmd_panel.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/mca_cmd_panel.c
+END
+ui_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/ui_utils.h
+END
+mca_command.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/mca_command.h
+END
+mkahawa-client
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/mkahawa-client
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/utils.h
+END
+mca_blocker.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/mca_blocker.h
+END
+mca_cmd_panel.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/mca_cmd_panel.h
+END
+mca_update.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/mca_update.h
+END
+blocker_ui.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/blocker_ui.c
+END
+blocker_ui.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/blocker_ui.h
+END
+mca_cmd_state.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/mca_cmd_state.c
+END
+mca_cmd_session.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/mca_cmd_session.c
+END
+mca_cmd_system.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/mca_cmd_system.c
+END
+mca_cmd_state.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/mca_cmd_state.h
+END
+mca_network_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/mca_network_utils.c
+END
+mca_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/mca_types.h
+END
+mca_cmd_session.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/mca_cmd_session.h
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/debug.h
+END
+mca_cmd_system.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/mca_cmd_system.h
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/.cvsignore
+END
+mca_app.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/mca_app.c
+END
+mca_svr_req.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mkahawa/!svn/ver/50/gtk-mkahawa-client/src/mca_svr_req.c
+END
+mca_cmd_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/mca_cmd_utils.c
+END
+mca_status.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/mca_status.c
+END
+mca_network.c.bak
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/mca_network.c.bak
+END
+mca_app.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/mca_app.h
+END
+mca_svr_req.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/mca_svr_req.h
+END
+mca_cmd_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/mca_cmd_utils.h
+END
+mca_network_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/mca_network_private.h
+END
+mca_status.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/mca_status.h
+END
+mca_network.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/mca_network.c
+END
+mca_network.h.bak
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/mca_network.h.bak
+END
+mca_debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/mca_debug.h
+END
+mca_network.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/mca_network.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/main.c
+END
+mca_cmd_update.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/mca_cmd_update.c
+END
+mca_cmd_message.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/mca_cmd_message.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/Makefile.am
+END
+mca_info_panel.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/mkahawa/!svn/ver/53/gtk-mkahawa-client/src/mca_info_panel.c
+END
+mca_cmd_update.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/mca_cmd_update.h
+END
+mca_cmd_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/mca_cmd_message.h
+END
+ui_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/src/ui_utils.c
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/mkahawa/!svn/ver/52/mkahawa-client/src
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mkahawa/!svn/ver/52/mkahawa-client/src/Makefile.in
+END
+cclc_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/mkahawa/!svn/ver/46/mkahawa-client/src/cclc_private.h
+END
+cclc.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/mkahawa/!svn/ver/46/mkahawa-client/src/cclc.c
+END
+img_ctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mkahawa/!svn/ver/38/mkahawa-client/src/img_ctrl.h
+END
+lockpix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mkahawa/!svn/ver/30/mkahawa-client/src/lockpix.cpp
+END
+cclc.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/mkahawa/!svn/ver/46/mkahawa-client/src/cclc.h
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/mkahawa/!svn/ver/46/mkahawa-client/src/util.c
+END
+lockpix.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/mkahawa/!svn/ver/30/mkahawa-client/src/lockpix.h
+END
+locker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mkahawa/!svn/ver/46/mkahawa-client/src/locker.cpp
+END
+cclcfox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mkahawa/!svn/ver/46/mkahawa-client/src/cclcfox.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/mkahawa/!svn/ver/46/mkahawa-client/src/main.cpp
+END
+locker.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/mkahawa/!svn/ver/30/mkahawa-client/src/locker.h
+END
+gui.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/mkahawa/!svn/ver/52/mkahawa-client/src/gui.cpp
+END
+cclcfox.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/mkahawa/!svn/ver/30/mkahawa-client/src/cclcfox.h
+END
+update.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/mkahawa/!svn/ver/23/mkahawa-client/src/update.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mkahawa/!svn/ver/46/mkahawa-client/src/Makefile.am
+END
+gui.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/mkahawa/!svn/ver/30/mkahawa-client/src/gui.h
+END
+cmds.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/mkahawa/!svn/ver/28/mkahawa-client/src/cmds.h
+END

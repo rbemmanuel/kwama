@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/mkahawa/!svn/ver/29/mkahawa-srv/m4
+END
+lib-link.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/m4/lib-link.m4
+END
+printf-posix.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/m4/printf-posix.m4
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/mkahawa/!svn/ver/29/mkahawa-srv/m4/Makefile.in
+END
+uintmax_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/m4/uintmax_t.m4
+END
+signed.m4
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/m4/signed.m4
+END
+iconv.m4
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/m4/iconv.m4
+END
+longlong.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/m4/longlong.m4
+END
+inttypes.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/m4/inttypes.m4
+END
+glibc21.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/m4/glibc21.m4
+END
+codeset.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/m4/codeset.m4
+END
+inttypes_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/m4/inttypes_h.m4
+END
+longdouble.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/m4/longdouble.m4
+END
+nls.m4
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/m4/nls.m4
+END
+intmax.m4
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/m4/intmax.m4
+END
+lib-prefix.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/m4/lib-prefix.m4
+END
+xsize.m4
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/m4/xsize.m4
+END
+glibc2.m4
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/m4/glibc2.m4
+END
+lcmessage.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/m4/lcmessage.m4
+END
+lib-ld.m4
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/m4/lib-ld.m4
+END
+wint_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/m4/wint_t.m4
+END
+ulonglong.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/m4/ulonglong.m4
+END
+progtest.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/m4/progtest.m4
+END
+inttypes-pri.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/m4/inttypes-pri.m4
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/m4/ChangeLog
+END
+stdint_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/m4/stdint_h.m4
+END
+intdiv0.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/m4/intdiv0.m4
+END
+po.m4
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/m4/po.m4
+END
+isc-posix.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/m4/isc-posix.m4
+END
+size_max.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/m4/size_max.m4
+END
+gettext.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/m4/gettext.m4
+END
+wchar_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/m4/wchar_t.m4
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/m4/Makefile.am
+END

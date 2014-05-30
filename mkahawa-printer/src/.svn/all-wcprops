@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/mkahawa/!svn/ver/44/mkahawa-printer/src
+END
+cclpfox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mkahawa/!svn/ver/13/mkahawa-printer/src/cclpfox.cpp
+END
+lockpix.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mkahawa/!svn/ver/13/mkahawa-printer/src/lockpix.h
+END
+locker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mkahawa/!svn/ver/13/mkahawa-printer/src/locker.cpp
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mkahawa/!svn/ver/44/mkahawa-printer/src/Makefile.in
+END
+cclpfox.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mkahawa/!svn/ver/13/mkahawa-printer/src/cclpfox.h
+END
+gui.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/mkahawa/!svn/ver/13/mkahawa-printer/src/gui.cpp
+END
+locker.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/mkahawa/!svn/ver/13/mkahawa-printer/src/locker.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/mkahawa/!svn/ver/13/mkahawa-printer/src/main.cpp
+END
+update.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/mkahawa/!svn/ver/13/mkahawa-printer/src/update.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mkahawa/!svn/ver/44/mkahawa-printer/src/Makefile.am
+END
+gui.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/mkahawa/!svn/ver/13/mkahawa-printer/src/gui.h
+END
+lockpix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mkahawa/!svn/ver/13/mkahawa-printer/src/lockpix.cpp
+END
+mkahawa-printer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/mkahawa/!svn/ver/41/mkahawa-printer/src/mkahawa-printer.cpp
+END
+cmds.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/mkahawa/!svn/ver/13/mkahawa-printer/src/cmds.h
+END

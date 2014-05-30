@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/mkahawa/!svn/ver/35/libccls/src
+END
+client.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/mkahawa/!svn/ver/35/libccls/src/client.c
+END
+employee.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/mkahawa/!svn/ver/5/libccls/src/employee.c
+END
+ccl_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/mkahawa/!svn/ver/26/libccls/src/ccl_private.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/mkahawa/!svn/ver/31/libccls/src/Makefile.in
+END
+ccl.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/mkahawa/!svn/ver/26/libccls/src/ccl.c
+END
+tarif.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/mkahawa/!svn/ver/5/libccls/src/tarif.c
+END
+logging.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/mkahawa/!svn/ver/5/libccls/src/logging.c
+END
+member.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/mkahawa/!svn/ver/26/libccls/src/member.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/mkahawa/!svn/ver/5/libccls/src/Makefile.am
+END
+ccls.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/mkahawa/!svn/ver/26/libccls/src/ccls.h
+END
+data.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/mkahawa/!svn/ver/5/libccls/src/data.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/mkahawa/!svn/ver/5/libccls/src/util.c
+END

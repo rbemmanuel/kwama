@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/mkahawa/!svn/ver/40/libcclc/src
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/mkahawa/!svn/ver/20/libcclc/src/Makefile.in
+END
+cclc_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/mkahawa/!svn/ver/4/libcclc/src/cclc_private.h
+END
+cclc.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/mkahawa/!svn/ver/4/libcclc/src/cclc.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/mkahawa/!svn/ver/4/libcclc/src/Makefile.am
+END
+cclc.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/mkahawa/!svn/ver/40/libcclc/src/cclc.h
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/mkahawa/!svn/ver/4/libcclc/src/util.c
+END

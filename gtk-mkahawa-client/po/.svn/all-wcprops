@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/po
+END
+LINGUAS
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/po/LINGUAS
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/po/ChangeLog
+END
+Makefile.in.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/po/Makefile.in.in
+END
+POTFILES.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/po/POTFILES.in
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mkahawa/!svn/ver/47/gtk-mkahawa-client/po/.cvsignore
+END

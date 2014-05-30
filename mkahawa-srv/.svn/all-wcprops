@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/mkahawa/!svn/ver/54/mkahawa-srv
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/mkinstalldirs
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/mkahawa/!svn/ver/29/mkahawa-srv/configure
+END
+intltool-extract.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mkahawa/!svn/ver/27/mkahawa-srv/intltool-extract.in
+END
+config.rpath
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/config.rpath
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/mkahawa/!svn/ver/29/mkahawa-srv/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/AUTHORS
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/mkahawa/!svn/ver/29/mkahawa-srv/configure.in
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/ChangeLog
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/depcomp
+END
+intltool-update.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mkahawa/!svn/ver/27/mkahawa-srv/intltool-update.in
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/config.guess
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/config.sub
+END
+README.CCL
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/README.CCL
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/README
+END
+ABOUT-NLS
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/ABOUT-NLS
+END
+CERTIFICATES.howto
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/CERTIFICATES.howto
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/INSTALL
+END
+intltool-merge.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mkahawa/!svn/ver/27/mkahawa-srv/intltool-merge.in
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/missing
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/NEWS
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/mkahawa/!svn/ver/29/mkahawa-srv/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/mkahawa/!svn/ver/13/mkahawa-srv/install-sh
+END
